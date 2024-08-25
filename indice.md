@@ -25,8 +25,8 @@
 ## Tema 2 - Creación de cargas de trabajo
 
 1. Cargas de trabajo en Kubernetes
-2. Creación de un deployment imperativamente
-3. Creación de desployment declarativamente
+2. Creación de un Deployment imperativamente
+3. Creación de Deployment declarativamente
 4. Escalado de un Deployment
 5. Imperativo vs Declarativo
 6. Gestionando Rollouts y Rollbacks de un Deployment
