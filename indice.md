@@ -2,7 +2,7 @@
 
 ## Tema 1 - Fundamentos de contenedores y Kubernetes
 
-1. Del Monolito a Microservicios
+1. Del Monolito a los Microservicios
 2. ¿Qué es un contenedor?
 3. Orquestación de contenedores
 4. Arquitectura de Kubernetes
@@ -36,13 +36,13 @@
 
 1. Introducción a las soluciones en la nube más destacables en la actualidad
 2. Ventajas y desventajas del uso del cloud
-3. Creación de una uenta gratuita de AWS
-4. Configuración y trabajo de Kubernetes en AWS: EKS (EKS en AWS no es gratuito, se paga el control plane por hora ~70$ al mes)
+3. Creación de una cuenta gratuita de AWS
+4. Configuración y trabajo de Kubernetes en AWS: EKS
 5. Creación de una cuenta gratuita de Azure
-6. Configuración y trabajo de Kubernetes en Azure: AKS (AKS puede ser gratuito en Azure con el budget de la primera cuenta 200$)
+6. Configuración y trabajo de Kubernetes en Azure: AKS
 7. Creación una cuenta gratuita de Google Cloud Platform (GCP)
 8. Configuración y trabajo de Kubernetes en GCP: GKE
-9. Comparativa entre AWS, AKS y GKE
+9. Comparativa entre EKS, AKS y GKE
 10. Recomendaciones y consejos para trabajar en la nube
 
 ## Tema 4 - Gestión de clústeres de Kubernetes con IAC (Infrastructure as Code)
