@@ -69,13 +69,12 @@
 ## Tema 6 - Profundizando en los Controladores
 
 1. Controladores en Kubernetes
-2. Jobs
-3. StatefulSet
-4. DaemonSet
-5. CronJob y Job
-6. HorizontalPodAutoscaler
-7. VerticalPodAutoscaler
-8. Keda
+2. StatefulSet
+3. DaemonSet
+4. CronJob y Jobs
+5. HorizontalPodAutoscaler
+6. VerticalPodAutoscaler
+7. Keda
 
 ## Tema 7 - Profundizando en las redes y servicios de Kubernetes
 
