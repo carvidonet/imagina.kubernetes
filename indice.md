@@ -47,7 +47,7 @@
 
 ## Tema 4 - Gestión de clústeres de Kubernetes con IAC (Infrastructure as Code)
 
-1. ¿Qué es la infrastructura como código (IaC)?
+1. ¿Qué es la infraestructura como código (IaC)?
 2. Introducción a terraform
 3. Ventajas y desventajas del uso de terraform
 4. Alternativas a terraform más destacables
