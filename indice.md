@@ -94,12 +94,13 @@
 
 1. Cattle vs Pets
 2. Ciclo de vida del almacenamiento persistente
-3. Aprovisionamiento estático
-4. La Importancia de los PersistentVolumes
-5. Almacenamiento efímero (Ephemeral Storage)
-6. Storage Class y Aprovisionamiento Dinámico
-7. Volúmenes Persistentes en soluciones cloud
-8. Aprovisionamiento dinámico en soluciones cloud
+3. StorageClass
+4. Aprovisionamiento estático
+5. Aprovisionamiento dinámico
+6. La Importancia de los PersistentVolumes
+7. Almacenamiento efímero (Ephemeral Storage)
+8. Volúmenes Persistentes en soluciones cloud
+9. Aprovisionamiento dinámico en soluciones cloud
 
 ## Tema 9 - Securizando un clúster de Kubernetes
 
