@@ -62,8 +62,8 @@
 4. Ejemplos reales de CI/CD
 5. Integración y despliegue continuo con GitHub Actions
 6. Creación de imágenes de contenedor
-7. Etiquetado de imágenes de contenedor y uso del container registry de GCP
-8. Despliegue Continuo de apps en GKE
+7. Etiquetado de imágenes de contenedor y uso del container registry en la nube
+8. Despliegue continuo de apps con soluciones cloud
 9. Estrategias de despliegue y recomendaciones
 
 ## Tema 6 - Profundizando en los Controladores
