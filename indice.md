@@ -82,7 +82,7 @@
 2. Servicios en Kubernetes
 3. Servicio ClusterIP
 4. Servicio NodePort
-5. Servicio Loadbalancer
+5. Servicio LoadBalancer
 6. Servicio ExternalName
 7. Depuración con port-forward
 8. Aplicaciones Accesibles a través de un balanceador de carga
