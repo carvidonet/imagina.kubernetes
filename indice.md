@@ -95,7 +95,7 @@
 1. Cattle vs Pets
 2. Ciclo de vida del almacenamiento persistente
 3. Aprovisionamiento estático
-4. La Importancia de PersistentVolumes
+4. La Importancia de los PersistentVolumes
 5. Almacenamiento efimero (EphemeralStorage)
 6. Storage Class y Aprovisionamiento Dinámico
 7. Volúmenes Persistentes en soluciones cloud
