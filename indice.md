@@ -88,7 +88,7 @@
 8. Aplicaciones Accesibles a través de un balanceador de carga
 9. Reglas de enrutamiento con IngressController y certificados TLS con Cert Manager
 10. Patrón sidecar y service mesh con Istio
-11. Gestion de redes y servicios en la nube
+11. Gestión de redes y servicios en la nube
 
 ## Tema 8 - Almacenamiento persistente en Kubernetes
 
