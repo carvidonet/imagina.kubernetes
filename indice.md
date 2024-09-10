@@ -56,7 +56,7 @@
 
 ## Tema 5 - Integración continua, testing y despliegue
 
-1. Introducción a la integración continua (CI)
+1. Introducción a la ntegración continua (CI)
 2. Introducción al despliegue continuo (CD)
 3. Características principales de CI/CD
 4. Ejemplos reales de CI/CD
