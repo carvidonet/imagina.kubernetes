@@ -47,7 +47,7 @@
 
 ## Tema 4 - Gestión de clústeres de Kubernetes con IAC (Infrastructure as Code)
 
-1. ¿Qué es la infrastructura como código (IaC)?
+1. ¿Qué es la infraestructura como código (IaC)?
 2. Introducción a terraform
 3. Ventajas y desventajas del uso de terraform
 4. Alternativas a terraform más destacables
@@ -56,26 +56,25 @@
 
 ## Tema 5 - Integración continua, testing y despliegue
 
-1. Introducción a la ntegración continua (CI)
+1. Introducción a la integración continua (CI)
 2. Introducción al despliegue continuo (CD)
 3. Características principales de CI/CD
 4. Ejemplos reales de CI/CD
 5. Integración y despliegue continuo con GitHub Actions
 6. Creación de imágenes de contenedor
-7. Etiquetado de imágenes de contenedor y uso del container registry de GCP
-8. Despliegue Continuo de apps en GKE
+7. Etiquetado de imágenes de contenedor y uso del container registry en la nube
+8. Despliegue continuo de apps con soluciones cloud
 9. Estrategias de despliegue y recomendaciones
 
 ## Tema 6 - Profundizando en los Controladores
 
 1. Controladores en Kubernetes
-2. Jobs
-3. StatefulSet
-4. DaemonSet
-5. CronJob y Job
-6. HorizontalPodAutoscaler
-7. VerticalPodAutoscaler
-8. Keda
+2. StatefulSet
+3. DaemonSet
+4. CronJob y Jobs
+5. HorizontalPodAutoscaler
+6. VerticalPodAutoscaler
+7. Keda
 
 ## Tema 7 - Profundizando en las redes y servicios de Kubernetes
 
@@ -83,24 +82,25 @@
 2. Servicios en Kubernetes
 3. Servicio ClusterIP
 4. Servicio NodePort
-5. Servicio Loadbalancer
+5. Servicio LoadBalancer
 6. Servicio ExternalName
 7. Depuración con port-forward
 8. Aplicaciones Accesibles a través de un balanceador de carga
 9. Reglas de enrutamiento con IngressController y certificados TLS con Cert Manager
 10. Patrón sidecar y service mesh con Istio
-11. Gestion de redes y servicios en la nube
+11. Gestión de redes y servicios en la nube
 
 ## Tema 8 - Almacenamiento persistente en Kubernetes
 
 1. Cattle vs Pets
 2. Ciclo de vida del almacenamiento persistente
-3. Aprovisionamiento estático
-4. La Importancia de PersistentVolumes
-5. Almacenamiento efimero (EphemeralStorage)
-6. Storage Class y Aprovisionamiento Dinámico
-7. Volúmenes Persistentes en soluciones cloud
-8. Aprovisionamiento dinámico en soluciones cloud
+3. StorageClass
+4. Aprovisionamiento estático
+5. Aprovisionamiento dinámico
+6. La Importancia de los PersistentVolumes
+7. Almacenamiento efímero (Ephemeral Storage)
+8. Volúmenes Persistentes en soluciones cloud
+9. Aprovisionamiento dinámico en soluciones cloud
 
 ## Tema 9 - Securizando un clúster de Kubernetes
 
