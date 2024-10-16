@@ -138,7 +138,7 @@
 4. PersistentVolumes
 5. Worker-nodes
 6. Actualización de un clúster
-7. Heptio Ark
+7. Velero
 8. Buenas prácticas
 
 ## Tema 13 - Observabilidad de Kubernetes
